@@ -32,7 +32,7 @@ print("Square root of the number:",n)
 ```
 
 ## Output:
-![OUTPUT](./images/root,png)
+![OUTPUT](./images/root.png)
 
 
 ## Result:
